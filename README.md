@@ -2,7 +2,7 @@ https://oybekx3d.github.io/shopwebsite/
 Website Created By Me, Oybek Qodirberdiyev. DO NOT SELL COPIES OR USE COPIES TO MONETIZE. YOU CAN EDIT IT TO SELL OR MONETIZE BUT NOT THE COPY. MUST GIVE CREDIT AT THE FOOTER!
 And Please give me a Star!
 Thanks, Appreciate it!
-Screenshot N2
+Screenshot N1
 ![Screenshot N1](https://raw.githubusercontent.com/oybekx3d/shopwebsite/main/screenshots/Screenshot%20(10).png)
 Screenshot N2
 ![Screenshot N2](https://raw.githubusercontent.com/oybekx3d/shopwebsite/main/screenshots/Screenshot%20(7).png)
